@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Test Heading
 
 Test content
+
+## Test Heading 3
+
+Test content 3
